@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://akshaylabs.github.io/">
-    <img src="https://media.giphy.com/media/hDSGolpaNZTK9OQJqk/giphy.gif" alt="bye-sticker" width="60" />
+    <img src="https://media.giphy.com/media/hDSGolpaNZTK9OQJqk/giphy.gif" alt="bye-sticker" width="80" />
   </a>
 </p>
 
