@@ -1,8 +1,10 @@
-### Hi there&nbsp;<a href="https://akshaylabs.github.io/" target="_blank">
-  <img src="https://media.giphy.com/media/hDSGolpaNZTK9OQJqk/giphy.gif" alt="👋 bye-sticker" width="40">
-</a>
+<p align="center">
+  <a href="https://akshaylabs.github.io/">
+    <img src="https://media.giphy.com/media/hDSGolpaNZTK9OQJqk/giphy.gif" alt="bye-sticker" width="60" />
+  </a>
+</p>
 
----
-
-This account has **moved** — check out my new space at  
-👉 [@akshaylabs](https://github.com/akshaylabs)
+<p align="center">
+  This account has <b>moved</b> — check out my new space at  
+  <a href="https://github.com/akshaylabs"><b>@akshaylabs</b></a>
+</p>
